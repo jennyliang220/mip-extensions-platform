@@ -6,7 +6,7 @@ mip-wygx-classtab 用于多按钮，多样式绑定切换
 ----|----
 类型|通用
 支持布局|N/S
-所需脚本|https://mipcache.bdstatic.com/extensions/platform/v1/mip-wygx-classtab/mip-wygx-classtab.js
+所需脚本|https://mipcache.bdstatic.com/extensions/v1/mip-wygx-classtab/mip-wygx-classtab.js
 
 ## 示例
 
