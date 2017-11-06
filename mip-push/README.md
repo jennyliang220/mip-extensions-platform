@@ -6,7 +6,7 @@ mip-push 用来支持站长添加百度自动推送
 ----|----
 类型|通用
 支持布局|responsive,fixed-height,fill,container,fixed
-所需脚本|https://mipcache.bdstatic.com/extensions/v1/mip-push/mip-push.js
+所需脚本|https://mipcache.bdstatic.com/static/v1/mip-push/mip-push.js
 
 ## 示例
 

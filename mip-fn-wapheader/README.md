@@ -10,7 +10,7 @@
 标题|内容
 ----|----
 类型|通用 
-所需脚本|https://mipcache.bdstatic.com/extensions/v1/mip-fn-wapheader/mip-fn-wapheader.js
+所需脚本|https://mipcache.bdstatic.com/static/v1/mip-fn-wapheader/mip-fn-wapheader.js
 
 ## 属性
 ### channelName

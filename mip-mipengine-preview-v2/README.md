@@ -6,7 +6,7 @@
 ----|----
 类型|通用
 支持布局|responsive,fixed-height,fill,container,fixed
-所需脚本|http://mipcache.bdstatic.com/extensions/v1/mip-mipengine-preview-v2/mip-mipengine-preview-v2.js
+所需脚本|http://mipcache.bdstatic.com/static/v1/mip-mipengine-preview-v2/mip-mipengine-preview-v2.js
 
 ## 示例
 

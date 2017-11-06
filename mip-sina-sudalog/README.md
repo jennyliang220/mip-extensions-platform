@@ -5,7 +5,7 @@ mip-sina-sudalog 新浪日志统计组件
 标题|内容
 ----|----
 类型|定制
-所需脚本|https://mipcache.bdstatic.com/extensions/v1/mip-sina-sudalog/mip-sina-sudalog.js
+所需脚本|https://mipcache.bdstatic.com/static/v1/mip-sina-sudalog/mip-sina-sudalog.js
 
 ## 示例
 

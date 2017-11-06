@@ -6,7 +6,7 @@ mip-tiantis-54kefu 封装了54kefu
 ----|----
 类型|通用
 支持布局|responsive,fixed-height,fill,container,fixed
-所需脚本|https://mipcache.bdstatic.com/extensions/v1/mip-tiantis-54kefu/mip-tiantis-54kefu.js
+所需脚本|https://mipcache.bdstatic.com/static/v1/mip-tiantis-54kefu/mip-tiantis-54kefu.js
 
 ## 示例
 

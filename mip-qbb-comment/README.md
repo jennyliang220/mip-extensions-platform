@@ -6,7 +6,7 @@ mip-qbb-comment 组件说明
 ----|----
 类型|通用
 支持布局|responsive,fixed-height,fill,container,fixed
-所需脚本|https://mipcache.bdstatic.com/extensions/v1/mip-qbb-comment/mip-qbb-comment.js
+所需脚本|https://mipcache.bdstatic.com/static/v1/mip-qbb-comment/mip-qbb-comment.js
 
 ## 示例
 ```html

@@ -7,7 +7,7 @@
 ----|----
 类型|通用
 支持布局|responsive,fixed-height,fill,container,fixed
-所需脚本|https://mipcache.bdstatic.com/extensions/v1/mip-365xiazai-btn/mip-365xiazai-header.js
+所需脚本|https://mipcache.bdstatic.com/static/v1/mip-365xiazai-btn/mip-365xiazai-header.js
 
 
 ## 示例

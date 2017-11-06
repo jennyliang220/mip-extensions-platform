@@ -6,7 +6,7 @@
 ----|----
 类型|广告展示组件
 支持布局|N/S
-所需脚本|https://mipcache.bdstatic.com/extensions/v1/mip-wkad-final/mip-wkad-final.js
+所需脚本|https://mipcache.bdstatic.com/static/v1/mip-wkad-final/mip-wkad-final.js
 
 ## 示例
 

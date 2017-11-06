@@ -6,7 +6,7 @@ mip-zpm-jobdetail 职位业务需求
 ----|----
 类型|通用
 支持布局|N/S
-所需脚本|https://mipcache.bdstatic.com/extensions/v1/mip-zpm-jobdetail/mip-zpm-jobdetail.js
+所需脚本|https://mipcache.bdstatic.com/static/v1/mip-zpm-jobdetail/mip-zpm-jobdetail.js
 
 
 ## 示例
